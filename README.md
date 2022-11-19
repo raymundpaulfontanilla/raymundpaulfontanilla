@@ -6,7 +6,7 @@ I want to help end-users especially in the Philippines, because Philippines is o
 
 My Motto is......
 
-Work to learn, don't work for money
+"Work to learn, don't work for money"
 
 My Weakness is almost the same of Bill Gates which is.....
 
