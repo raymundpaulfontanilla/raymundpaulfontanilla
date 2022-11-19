@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Raymund Paul S. Fontanilla an Information Security Analyst, Network Security Engineer and Forensics Specialist who can try to learn the fundamentals of full stack web development with implementing of secure coding, to become Secure Web Developer and Web Penetration Tester and make a secure application in each company in the Philippines to protect Personal Identifiable Information(PII).
 
-I want to help end-users especially in the Philippines, because Philippines is one of the country who has lack in terms of information security awareness.
+I want to help end-users especially in the Philippines, because Philippines is one of the country who has lack in Information Security awareness.
 
 My Motto is......
 
