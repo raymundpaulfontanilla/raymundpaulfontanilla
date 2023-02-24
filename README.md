@@ -21,25 +21,19 @@ My Weakness is almost the same of Bill Gates which is..... "I don't want my brai
 
 Hobbies:
 
-Playing Single Open Worlld RPG like 
+Playing Single Open Worlld RPG sunch as: 
 <ul>
   <li>Assassin's Creed</li>
   <li>Watchdogs</li>
   <li>Prince of Persia</li>
 </ul>
 <br/>
-<ul>
-  <li>Watching Series</li>
-  <li>Moviess</li>
-  <li>Documentary with IT related</li>
-</ul>
-<br/>
-<ul>
-  <li>Watching Series</li>
-  <li>Moviess</li>
-  <li>Documentary with IT related</li>
-  <li>Watching Anime</li>
-</ul>
+Watching Series
+Movies
+Documentary with IT related
+Documentary without IT related
+Watching Anime
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
