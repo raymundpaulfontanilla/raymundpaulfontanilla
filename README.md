@@ -27,7 +27,6 @@ Playing Single Open Worlld RPG sunch as:
   <li>Watchdogs</li>
   <li>Prince of Persia</li>
 </ul>
-<br/>
 Watching Series
 Movies
 Documentary with IT related
