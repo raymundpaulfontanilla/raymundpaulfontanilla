@@ -19,8 +19,20 @@ My Motto is...... "Work to learn, don't work for money"
 
 My Weakness is almost the same of Bill Gates which is..... "I don't want my brain to stop working" 
 
-Hobbies: 
+Hobbies:
+
 Playing Single Open Worlld RPG like 
+<ul>
+  <li>Assassin's Creed</li>
+  <li>Watchdogs</li>
+  <li>Prince of Persia</li>
+</ul>
+Playing Single Open Worlld RPG like 
+<ul>
+  <li>Assassin's Creed</li>
+  <li>Watchdogs</li>
+  <li>Prince of Persia</li>
+</ul>
 Assassin's Creed, Watchdogs, Prince of Persia etc... 
 Watching Series, Movies and Documentary with IT related. 
 Watching Series, Movies and Documentary with Non IT related. Watching Anime**
