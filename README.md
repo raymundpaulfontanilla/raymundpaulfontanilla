@@ -28,9 +28,13 @@ Playing Single Open Worlld RPG sunch as:
   <li>Prince of Persia</li>
 </ul>
 Watching Series
+</br>
 Movies
-Documentary with IT related
-Documentary without IT related
+</br>
+Documentary with IT related 
+</br>
+Documentary without IT related 
+</br>
 Watching Anime
 
 
