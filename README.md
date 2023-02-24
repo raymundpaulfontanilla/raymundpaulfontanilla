@@ -27,15 +27,19 @@ Playing Single Open Worlld RPG like
   <li>Watchdogs</li>
   <li>Prince of Persia</li>
 </ul>
-Playing Single Open Worlld RPG like 
+<br/>
 <ul>
-  <li>Assassin's Creed</li>
-  <li>Watchdogs</li>
-  <li>Prince of Persia</li>
+  <li>Watching Series</li>
+  <li>Moviess</li>
+  <li>Documentary with IT related</li>
 </ul>
-Assassin's Creed, Watchdogs, Prince of Persia etc... 
-Watching Series, Movies and Documentary with IT related. 
-Watching Series, Movies and Documentary with Non IT related. Watching Anime**
+<br/>
+<ul>
+  <li>Watching Series</li>
+  <li>Moviess</li>
+  <li>Documentary with IT related</li>
+  <li>Watching Anime</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
