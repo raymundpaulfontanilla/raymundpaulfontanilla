@@ -21,7 +21,7 @@ My Weakness is almost the same of Bill Gates which is..... "I don't want my brai
 
 Hobbies:
 
-Playing Single Open Worlld RPG sunch as: 
+Playing Single Open World RPG such as: 
 <ul>
   <li>Assassin's Creed</li>
   <li>Watchdogs</li>
