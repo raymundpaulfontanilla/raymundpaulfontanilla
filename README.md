@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raymundpaulfontanilla@gmail.com**
 
-- ⚡ Fun fact an Information Security Analyst, Network Security Engineer and Forensics Specialist who can try to learn the fundamentals of full stack web development with implementing of secure coding, to become Secure Web Developer and Web Penetration Tester to make a secure application in each company in the Philippines to protect Personal Identifiable Information(PII). 
+- ⚡ Fun fact an I am a Information Security Enthusiasts, who can try to learn the fundamentals of  web development with secure coding and focuses in a backend development, to make a secure web application of the client to protect their Personal Identifiable Information(PII). 
 
 I want to help end-users especially in the Philippines, because Philippines is one of the country who has lack in Information Security awareness. 
 
