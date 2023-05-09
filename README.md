@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymund Paul S. Fontanilla</h1>
-<h3 align="center">A passionate PHP Backend Developer from G.M.A, Cavite</h3>
+<h3 align="center">A passionate Developer focuses on Backend development from G.M.A, Cavite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymundpaulfontanilla&label=Profile%20views&color=0e75b6&style=flat" alt="raymundpaulfontanilla" /> </p>
 
