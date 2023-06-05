@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymundpaulfontanilla" alt="raymundpaulfontanilla" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, PHP Laravel, MySQL, HTML, Bootstrap CSS, Javascript, jQuery**
+- 🌱 I’m currently learning **Python, PHP, PHP Laravel, MySQL, HTML, Bootstrap CSS, Javascript, jQuery**
 
 - 💬 Ask me about **Information Security ISO/IEC 27001 Frameworks**
 
