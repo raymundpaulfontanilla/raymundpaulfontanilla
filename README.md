@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymundpaulfontanilla" alt="raymundpaulfontanilla" /></a> </p>
 
-- 🌱 I’m currently learning **Python with Machine Learning or Artificial Inteligence(AI) integration, Business Model/ERD, MySQL, HTML, Bootstrap CSS, Javascript,JQuery, React JS,Web 3 **
+- 🌱 I’m currently learning Python with Machine Learning or Artificial Inteligence(AI) integration, Business Model/ERD, MySQL, HTML, Bootstrap CSS, Javascript,JQuery, React JS,Web 3.0
 
 - 💬 Ask me about **Information Security ISO/IEC 27001 Frameworks**
 
