@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymundpaulfontanilla" alt="raymundpaulfontanilla" /></a> </p>
 
-- 🌱 I’m currently learning fundamentals of ERD, MySQL Database, Python SQLAlchemy, Data Migration, Python Alembic, Bootstrapping.
+- 🌱 I’m currently learning fundamentals of ERD, MySQL Database, Python SQLAlchemy. Data Migration Tool such as Python Alembic and Bootstrapping.
 
 - 💬 Ask me about **Information Security ISO/IEC 27001 Frameworks**
 
