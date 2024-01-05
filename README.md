@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fundamentals of Fullstack Development include backend technologies such as ERD, MySQL Database, and Python SQLAlchemy. Additionally, data migration tools like Python Alembic, as well as bootstrapping. On the frontend side HTML, CSS, Bootstrap CSS, JavaScript, ReactJS, NextJS, and Ant Design.**
 
-- 👯 I’m currently to collaborate on [maline-seaman-bedspace](https://github.com/jcbalang-dev/maline-seaman-bedspace)
+- 👯 I’m looking to collaborate on [maline-seaman-bedspace](https://github.com/jcbalang-dev/maline-seaman-bedspace https://github.com/jcbalang-dev/maline-seaman-bedspace-api)
 
 - 👨‍💻 All of my projects are available at [Planning Stage](Planning Stage)
 
