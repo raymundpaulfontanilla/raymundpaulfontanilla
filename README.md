@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Fundamentals of Fullstack Development include backend technologies such as ERD, MySQL Database, and Python SQLAlchemy. Additionally, data migration tools like Python Alembic, as well as bootstrapping. On the frontend side HTML, CSS, Bootstrap CSS, JavaScript, ReactJS, ReactBootstrap, NextJS, and Ant Design.**
+- 🌱 I’m currently learning **Fundamentals of Fullstack Development include backend technologies such as ERD, MySQL Database, and Python SQLAlchemy. Additionally, data migration tools like Python Alembic, as well as bootstrapping. On the frontend side HTML, CSS, Bootstrap CSS, JavaScript, ReactJS, React Bootstrap, NextJS, and Ant Design.**
 
 - 👯 I’m looking to collaborate on maline-seaman-bedspace (https://github.com/jcbalang-dev/maline-seaman-bedspace https://github.com/jcbalang-dev/maline-seaman-bedspace-api)
 
