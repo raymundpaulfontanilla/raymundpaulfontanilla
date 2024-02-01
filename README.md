@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on maline-seaman-bedspace (https://github.com/jcbalang-dev/maline-seaman-bedspace)
 
-- 👨‍💻 All of my projects are available at [Planning Stage](Planning Stage)
+- 👨‍💻 All of my projects are available at [https://github.com/raymundpaulfontanilla/nextjs-portfolio](https://github.com/raymundpaulfontanilla/nextjs-portfolio)
 
 - 💬 Ask me about **Information Security ISO/IEC 27001 Frameworks**
 
