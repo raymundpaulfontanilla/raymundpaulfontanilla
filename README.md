@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/back.track.5r3.2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/back.track.5r3.2011" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/#2372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/#2372" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/users/raymundpaulfontanilla" target="blank"><img align="center" src="https://asset.brandfetch.io/id9yn4jCIC/id4QZnqFYs.svg" alt="https://discord.com/#2372" height="150" width="150" /></a>
+  <a href="https://www.codewars.com/users/raymundpaulfontanilla" target="_blank"><img align="center" src="https://asset.brandfetch.io/id9yn4jCIC/id4QZnqFYs.svg" alt="https://discord.com/#2372" height="150" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
