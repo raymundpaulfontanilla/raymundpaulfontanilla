@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 A Junior Full Stack Web Developer with a passion for programming and a love for web development. has knowledge of Business Models, Entity Relationship Diagrams, with database technolgies such as MS SQL, and MySQL. also experienced with back-end technologies such as PHP Laravel, Python with the Flask framework, and C# with .NET Core MVC and Web API. additionally, experienced with front-end technologies such as HTML, CSS, Bootstrap, and JavaScript with the React and Next.js frameworks. Able to efficiently self-manage during independent projects, as well as collaborate in a team setting.
+- 🌱 A Junior Full Stack Web Developer with a passion for programming and a love for web development. has knowledge of Business Models, Entity Relationship Diagrams, with database MySQL. also experienced with back-end PHP Laravel additionally, experienced with front-end technologies such as HTML, CSS, Bootstrap, and JavaScript with the React and Next.js frameworks. Able to efficiently self-manage during independent projects, as well as collaborate in a team setting.
 
 - 👯 I’m looking to collaborate on maline-seaman-bedspace (https://github.com/jcbalang-dev/maline-seaman-bedspace)
 
