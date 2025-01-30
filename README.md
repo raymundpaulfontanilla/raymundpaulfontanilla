@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 A Junior Backend PHP Laravel API Developer with a passion for programming and a love for web development. has knowledge of Business Models, Entity Relationship Diagrams, with database MySQL. also experienced with back-end PHP Laravel additionally, with some experienced in front-end technologies without framework such as HTML, CSS, Bootstrap, and JavaScript. Able to efficiently self-manage during independent projects, as well as collaborate in a team setting.
+- 🌱 A Junior Backend PHP Laravel API Developer with a passion for programming and web development. Possesses knowledge of Business Models, Entity Relationship Diagrams, and MySQL databases. Has work experience with back-end development using PHP and Laravel, as well as some experience with front-end technologies without using frameworks, such as HTML, CSS, Bootstrap, and JavaScript. Capable of efficiently self-managing during independent projects and collaborating effectively in a team setting.
 
 - 👯 I’m looking to collaborate on maline-seaman-bedspace (https://github.com/jcbalang-dev/maline-seaman-bedspace)
 
