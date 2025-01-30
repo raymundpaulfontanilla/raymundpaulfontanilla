@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymund Paul S. Fontanilla</h1>
-<h3 align="center">A passionate Junior Full Stack Developer focusing on Backend Development</h3>
+<h3 align="center">A passionate Junior Backend PHP Laravel API Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymundpaulfontanilla&label=Profile%20views&color=0e75b6&style=flat" alt="raymundpaulfontanilla" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 A Junior Full Stack Web Developer with a passion for programming and a love for web development. has knowledge of Business Models, Entity Relationship Diagrams, with database MySQL. also experienced with back-end PHP Laravel additionally, experienced with front-end technologies such as HTML, CSS, Bootstrap, and JavaScript with the React and Next.js frameworks. Able to efficiently self-manage during independent projects, as well as collaborate in a team setting.
+- 🌱 A Junior Backend PHP Laravel API Developer with a passion for programming and a love for web development. has knowledge of Business Models, Entity Relationship Diagrams, with database MySQL. also experienced with back-end PHP Laravel additionally, with some experienced in front-end technologies without framework such as HTML, CSS, Bootstrap, and JavaScript. Able to efficiently self-manage during independent projects, as well as collaborate in a team setting.
 
 - 👯 I’m looking to collaborate on maline-seaman-bedspace (https://github.com/jcbalang-dev/maline-seaman-bedspace)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Planning Stage](Planning Stage)
 
-- ⚡ Fun fact **I am a career shifter which is Information Security Enthusiasts , who can try to learn the fundamentals of full stack web development with secure coding and focuses in a backend development, to make a secure web application of the client to protect their Personal Identifiable Information(PII).**
+- ⚡ Fun fact **I am a career shifter which is Information Security Enthusiasts , who can try to learn the backend web development with api secure coding, to make a secure web application of the client to protect their Personal Identifiable Information(PII).**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
