@@ -16,6 +16,8 @@
 - 💬 Ask me about **Information Security ISO/IEC 27001 Frameworks**
 
 - 📫 How to reach me **raymundpaulfontanilla@gmail.com**
+  
+- 📄 Know about my experiences I will develop and deploy my curriculum vitae website using React.js after completing the Santé Barley landing page.
 
 - ⚡ Fun fact **I am a career shifter and an Information Security enthusiast who is learning backend web development with secure API coding to create secure web applications that protect clients' Personally Identifiable Information (PII).**
 
