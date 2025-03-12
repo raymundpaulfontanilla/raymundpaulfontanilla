@@ -19,7 +19,7 @@
   
 - 📄 Know about my experiences **I will develop and deploy my curriculum vitae website using React.js after completing the Santé Barley landing page.**
 
-- ⚡ Fun fact **I am a career shifter and an Information Security enthusiast who is learning backend web development with secure API coding to create secure web applications that protect clients' Personally Identifiable Information (PII).**
+- ⚡ Fun fact **I am a career shifter as Cyber Security Analyst and Digital Forensics Investigator who is learning backend web development with secure API coding to create secure web applications that protect clients' Personally Identifiable Information (PII).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
