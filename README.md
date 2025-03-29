@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Sante Barley Landing Page](https://github.com/raymundpaulfontanilla/sante-barley-landing-page)
+- 🔭 I’m currently working on [Sante Barley Landing Page](https://github.com/raymundpaulfontanilla/sante-barley-landing-page) page as my first landing page to enhance my understanding of front-end web development.
 
 - 🌱 I’m currently learning **front-end concepts, specifically HTML5, CSS3 with the Bootstrap framework, JavaScript and its library React, as well as its framework Next.js.**
 
