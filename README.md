@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sante Barley Landing Page](https://github.com/raymundpaulfontanilla/sante-barley-landing-page)
 
-- 🌱 I’m currently learning **front-end concepts, specifically HTML5, CSS3, JavaScript, and its frameworks, React.js and Next.js.**
+- 🌱 I’m currently learning **front-end concepts, specifically HTML5, CSS3 with the Bootstrap framework, JavaScript and its library React, as well as its framework Next.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raymundpaulfontanilla/nextjs-portfolio](https://github.com/raymundpaulfontanilla/nextjs-portfolio)
 
